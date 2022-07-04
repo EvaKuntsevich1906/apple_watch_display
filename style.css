@@ -23,7 +23,7 @@
     height: 472px;
 }
 
-.date {
+.datasince {
     width: 104px;
     font-family: 'K2D';
     font-style: normal;
@@ -32,6 +32,7 @@
     line-height: 26px;
     color: #FFFFFF;
     margin: 17px auto 12px auto;
+    display: flex;
 }
 
 .button {
